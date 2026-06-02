@@ -57,11 +57,11 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
   - Enemy Wave System
   - Boss Battles
   - Character Switching
-  - Base Defense Gameplay
+  - Base Defense Mechanics
 
 - <b>Technical Highlights</b>
   - Enemy AI with NavMesh
-  - Abstract Projectile Architecture
+  - Abstract Projectile System
   - Modular Weapon System
   - Wave Spawner System
   - Cinemachine Integration
@@ -80,7 +80,10 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 
 <img src="./images/projectc.gif" width="100%"/>
 
-
+- <b>Main Features</b>
+  - Achievement System
+  - XP Progression System
+  - Enemy AI
 
 <!-- [Repository](LINK) -->
 
@@ -92,6 +95,10 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 
 <img src="./images/projectd.gif" width="100%"/>
 
+- <b>Main Features</b>
+  - Platformer Character Controller
+  - Patrol Enemy AI
+  - Mini-Boss Battle
 
 
 <!-- [Repository](LINK) -->
