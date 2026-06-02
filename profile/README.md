@@ -121,8 +121,7 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 - Dialogue Systems
 - Checkpoint Systems
 - Save Systems
-- Multiplayer Systems
-- Lobby & Room Systems
+- Multiplayer(Photon), Lobby & Room Systems
 - Network Synchronization
 - Dynamic HUDs
 - Damage & Status Systems
