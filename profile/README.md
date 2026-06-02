@@ -50,7 +50,7 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 
 ## 🎮 4Defenses
 
-<!-- <img src="./images/multiplayer.gif" width="100%"/> -->
+<img src="./4defenses.gif" width="100%"/>
 
 - <b>Main Features</b>
   - Multiple Weapons System
@@ -78,7 +78,7 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 
 ## 🎮 InaGame
 
-<img src="./images/projectc.gif" width="100%"/>
+<img src="./student.gif" width="100%"/>
 
 - <b>Main Features</b>
   - Achievement System
@@ -93,7 +93,7 @@ Gameplay programmer focused on gameplay systems and scalable architecture using 
 
 ## 🎮 Light Night
 
-<img src="./images/projectd.gif" width="100%"/>
+<img src="./lightK.gif" width="100%"/>
 
 - <b>Main Features</b>
   - Platformer Character Controller
