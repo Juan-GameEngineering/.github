@@ -27,7 +27,7 @@ https://gamedevcode.itch.io/
 
 ## 🎮 Relics of Balance
 
-<!-- <img src="./images/relics.gif" width="100%"/> -->
+<img src="./relics.gif" width="100%"/>
 
 - <b>Main Features</b>
   - Character Controller (Jump, Double Jump, Dash, Teleport)
